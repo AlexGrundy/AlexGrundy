@@ -1,16 +1,26 @@
-## Hi there 👋
+# Alex Grundy
 
-<!--
-**AlexGrundy/AlexGrundy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>Alex is an intern on the Software Development Team at 365 Retail Markets, which is headquarted in Troy.
 
-Here are some ideas to get you started:
+### Things to know when Pair Programming with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. I have never truly pair programed before but am interested in learning
+
+2. I tend to talk about what I am doing while I am doing it
+
+3. I don't have a ton of experience in documentation outside of comments but I am ready to learn new ways
+
+4. I will probably ask a lot of simple questions to double check I didn't miss anything
+
+### Languages/Tools
+-Python 
+-Java 
+-C++ 
+-JavaScript 
+-HTML 
+
+### Interesting Fact
+I love to go on OneWheel rides.
+
+### Get to know me better:
+[Github Portfolio](https://github.com/AlexGrundy) || [LinkedIn](www.linkedin.com/in/alex-grundy-0325a8172)
