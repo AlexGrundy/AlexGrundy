@@ -4,20 +4,21 @@
 
 ### Things to know when Pair Programming with me:
 
-1. I have never truly pair programed before but am interested in learning
+1. I tend to talk quite a bit
 
-2. I tend to talk about what I am doing while I am doing it
+2. I tend to move quite fast when I'm the driver
 
-3. I don't have a ton of experience in documentation outside of comments but I am ready to learn new ways
+3. I always have a lot of notes for the driver
 
-4. I will probably ask a lot of simple questions to double check I didn't miss anything
+4. We will be friends by the end of a session
 
 ### Languages/Tools
 -Python 
 -Java 
 -C++ 
 -JavaScript 
--HTML 
+-HTML
+-Kotlin
 
 ### Interesting Fact
 I love to go on OneWheel rides.
